@@ -1,5 +1,3 @@
-package a.b;
-
 @Description("test method")
 @Param("args: arguments")
 @Return("an integer")

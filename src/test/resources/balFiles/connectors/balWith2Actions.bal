@@ -1,5 +1,3 @@
-package a.b;
-
 @Description("Test connector")
 @Param("args: arguments")
 connector TestConnector(string consumerKey, string consumerSecret, string accessToken, string accessTokenSecret) {
